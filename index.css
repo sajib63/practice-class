@@ -1,0 +1,169 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+    background-image: url(images/shapes/Frame\ 57.jpg);
+   
+    background-position: center;
+}
+.section-1{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.text-area{
+    width: 500%;
+
+    
+}
+.text-area h1{
+    font-size: 90px;
+    padding-left:10%;
+    font-weight: 700;
+}
+span{
+    color: red;
+}
+.text-area p{
+    padding-left:10%;
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 50px;
+
+}
+.text-area a{
+    padding: 20px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(255, 72, 0);
+    
+    border-radius: 20px;
+    font-weight: 600;
+
+
+}
+.text{
+    margin-left: 10%;
+}
+.text-area img{
+    width: 100%;
+    height: auto;
+}
+
+#section-2{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-position:center;
+}
+#section-2 img{
+    width: 300px;
+    height: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 30%;
+}
+.about{
+    color: #535c68;
+}
+
+.center-text{
+    width: 500px;
+    text-align: center;
+    align-items: center;
+}
+.two-box{
+    display: flex;
+    padding-left: 10px;
+  
+}
+.box-1{
+    width: 40%;
+    margin: 5%;
+    height: 640px;
+    border-radius: 10px;
+    padding-right: 10px;
+    border: 1px solid white;
+    box-shadow: 20px 20px 50px rgb(167, 155, 155);
+}
+.box-2{
+    width: 40%;
+    margin: 5%;
+ 
+    border-radius: 5px;
+    padding-right: 10px;
+    border: 1px solid white;
+    box-shadow: 20px 20px 50px rgb(167, 155, 155);
+}
+
+.box-1 img{
+    width:100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 10px;
+    height: 400px;
+    border-radius: 30px;
+}
+.box-1 h1{
+    margin-left: 20px;
+    font-weight: 600;
+}
+.box-1 p{
+    margin-left: 20px;
+    font-weight: 500;
+}
+
+.box-2 img{
+    width:100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 10px;
+    height: 400px;
+    border-radius: 30px;
+}
+.box-2 h1{
+    margin-left: 20px;
+    font-weight: 600;
+}
+.box-2 p{
+    margin-left: 20px;
+    font-weight: 500;
+}
+.section-3 h1{
+    font-size: 36px;
+    font-weight: 600;
+}
+.section-3 p{
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.section-4{
+    
+    display: flex;
+    box-shadow: 20px 20px 50px rgb(167, 155, 155);
+    margin: 100px;
+}
+.class-1{
+    width: 25%;
+    margin: 3%;
+    margin-left: 450px;
+}
+
+.class-2{
+    width: 25%;
+    margin: 3%;
+    margin-left: 20px;
+}
+.class-3{
+    width: 25%;
+    margin: 3%;
+    margin-left: 20px;
+}
+.class-1 h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+.class-1 p{
+    margin-top: -10px;
+}
