@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;
     
     background-image: url(images/shapes/Frame\ 57.jpg);
    
@@ -165,5 +166,49 @@ span{
     font-weight: 700;
 }
 .class-1 p{
-    margin-top: -10px;
+    margin-top: -33px;
+}
+
+.class-2 h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+.class-2 p{
+    margin-top: -33px;
+}
+
+.class-3 h1{
+    
+    font-size: 48px;
+    font-weight: 700;
+}
+.class-3 p{
+    margin-top: -33px;
+}
+
+.last-text{
+    background-color: black;
+    color: white;
+    height: 200px;
+}
+.last-text h1{
+   
+    padding: 20px;
+    text-align: center;
+}
+.last-text p{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.last-text h1{
+    font-weight: 700;
+    color: gainsboro;
+}
+.last-text p{
+    font-weight: 600;
+    color: gainsboro;
+}
+
+.last-text .span {
+    color: orange;
 }
